@@ -6,5 +6,6 @@ Relatório de encontro ciência aberta.
 
 - Seminário
   Wikipedia e Ciência Cidadã
+  Software livre e hardware aberto
 
 Tiago Braga - Ibict Brasília
