@@ -1,4 +1,4 @@
-Relatório de encontro ciência aberta.
+﻿Relatório de encontro ciência aberta.
 
 - Workshop
   Content Mining
@@ -9,3 +9,5 @@ Relatório de encontro ciência aberta.
   Software livre e hardware aberto
 
 Tiago Braga - Ibict Brasília
+
+Alterado por Alessandra (alessbx)
