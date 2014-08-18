@@ -1,7 +1,8 @@
 Relatório de encontro ciência aberta.
 
 - Workshop
-  atividades de cursos
+  Content Mining
+  Hackaton de Hardware Aberto
 
 - Seminário
-  atividades de network
+  Wikipedi e Ciência Cidadã
